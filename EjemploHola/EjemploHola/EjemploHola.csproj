@@ -108,6 +108,7 @@
     <Content Include="TextFile2.txt" />
     <Content Include="TextFile22.txt" />
     <Content Include="TextFileAAA.txt" />
+    <Content Include="TextFileBBBB.txt" />
     <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
