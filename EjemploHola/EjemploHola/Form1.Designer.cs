@@ -40,6 +40,12 @@
             this.label12 = new System.Windows.Forms.Label();
             this.label13 = new System.Windows.Forms.Label();
             this.label14 = new System.Windows.Forms.Label();
+            this.progressBar2 = new System.Windows.Forms.ProgressBar();
+            this.progressBar3 = new System.Windows.Forms.ProgressBar();
+            this.progressBar4 = new System.Windows.Forms.ProgressBar();
+            this.progressBar5 = new System.Windows.Forms.ProgressBar();
+            this.progressBar6 = new System.Windows.Forms.ProgressBar();
+            this.progressBar7 = new System.Windows.Forms.ProgressBar();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).BeginInit();
             this.SuspendLayout();
             // 
@@ -148,12 +154,60 @@
             this.label14.TabIndex = 15;
             this.label14.Text = "label1dsfg sdfgsdf";
             // 
+            // progressBar2
+            // 
+            this.progressBar2.Location = new System.Drawing.Point(12, 132);
+            this.progressBar2.Name = "progressBar2";
+            this.progressBar2.Size = new System.Drawing.Size(383, 54);
+            this.progressBar2.TabIndex = 16;
+            // 
+            // progressBar3
+            // 
+            this.progressBar3.Location = new System.Drawing.Point(466, 372);
+            this.progressBar3.Name = "progressBar3";
+            this.progressBar3.Size = new System.Drawing.Size(383, 54);
+            this.progressBar3.TabIndex = 17;
+            // 
+            // progressBar4
+            // 
+            this.progressBar4.Location = new System.Drawing.Point(284, 372);
+            this.progressBar4.Name = "progressBar4";
+            this.progressBar4.Size = new System.Drawing.Size(383, 54);
+            this.progressBar4.TabIndex = 18;
+            // 
+            // progressBar5
+            // 
+            this.progressBar5.Location = new System.Drawing.Point(350, 142);
+            this.progressBar5.Name = "progressBar5";
+            this.progressBar5.Size = new System.Drawing.Size(383, 54);
+            this.progressBar5.TabIndex = 19;
+            // 
+            // progressBar6
+            // 
+            this.progressBar6.Location = new System.Drawing.Point(12, 72);
+            this.progressBar6.Name = "progressBar6";
+            this.progressBar6.Size = new System.Drawing.Size(383, 54);
+            this.progressBar6.TabIndex = 20;
+            // 
+            // progressBar7
+            // 
+            this.progressBar7.Location = new System.Drawing.Point(-2, 348);
+            this.progressBar7.Name = "progressBar7";
+            this.progressBar7.Size = new System.Drawing.Size(383, 54);
+            this.progressBar7.TabIndex = 21;
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(6F, 13F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackgroundImageLayout = System.Windows.Forms.ImageLayout.Center;
             this.ClientSize = new System.Drawing.Size(800, 450);
+            this.Controls.Add(this.progressBar7);
+            this.Controls.Add(this.progressBar6);
+            this.Controls.Add(this.progressBar5);
+            this.Controls.Add(this.progressBar4);
+            this.Controls.Add(this.progressBar3);
+            this.Controls.Add(this.progressBar2);
             this.Controls.Add(this.label14);
             this.Controls.Add(this.label13);
             this.Controls.Add(this.label12);
@@ -189,6 +243,12 @@
         private System.Windows.Forms.Label label12;
         private System.Windows.Forms.Label label13;
         private System.Windows.Forms.Label label14;
+        private System.Windows.Forms.ProgressBar progressBar2;
+        private System.Windows.Forms.ProgressBar progressBar3;
+        private System.Windows.Forms.ProgressBar progressBar4;
+        private System.Windows.Forms.ProgressBar progressBar5;
+        private System.Windows.Forms.ProgressBar progressBar6;
+        private System.Windows.Forms.ProgressBar progressBar7;
     }
 }
 
