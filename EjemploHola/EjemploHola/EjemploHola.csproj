@@ -105,6 +105,7 @@
   <ItemGroup>
     <Content Include="HTMLPage1.html" />
     <Content Include="TextFile1.txt" />
+    <Content Include="TextFile22.txt" />
     <Content Include="XMLFile1.xml" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
