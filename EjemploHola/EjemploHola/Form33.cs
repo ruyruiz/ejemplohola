@@ -10,21 +10,11 @@ using System.Windows.Forms;
 
 namespace EjemploHola
 {
-    public partial class Form1 : Form
+    public partial class Form33 : Form
     {
-        public Form1()
+        public Form33()
         {
             InitializeComponent();
-        }
-
-        private void Form1_Load(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label1_Click(object sender, EventArgs e)
-        {
-
         }
     }
 }
