@@ -1,3 +1,2 @@
 ﻿Este ejejmplo no tiene  taller de GIT en visual studio
-este ejemplo eeeeeeee
-meto 3 linea
+este ejemplo 2
