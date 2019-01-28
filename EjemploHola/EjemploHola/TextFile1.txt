@@ -1,1 +1,2 @@
-﻿Este ejejmplo no tiene sentido es solol  un taller de GIT en visual studio
+﻿Este ejejmplo no tiene  taller de GIT en visual studio
+este ejemplo 2
